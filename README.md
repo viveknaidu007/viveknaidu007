@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 align="center">Hi 👋, I'm vivek pmv</h1>
+<h1 align="center">Hiyyyyyy👋, This is vivek 😃</h1>
 <h3 align="center">A passionate artificial inteligence developer</h3>
 
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/iRB7vrvhPR4AAAAi/data-code.gif">
@@ -11,19 +11,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viveknaidu007" alt="viveknaidu007" /></a> </p>
 
-- 🔭 I’m currently working on **machine learning**
+- 🔭 I’m currently working on **Generatuve A.I**
 
-- 🌱 I’m currently learning and updating myself on **data science , machine learning**
+- 🌱 I’m currently learning and updating myself on ** Full Stack A.I **
 
 - 👯 I’m looking to collaborate on **geneartive ai**
 
-- 🤝 I’m looking for help with **large language models**
+- 🤝 I’m interested in genai **large language models**
 
 - 👨‍💻 All of my projects are available at [https://github.com/viveknaidu007](https://github.com/viveknaidu007)
 
 - 📝 I regularly write articles on [artificial inteligence](artificial inteligence)
 
-- 💬 Ask me about **computer vision**
+- 💬 Ask me about **data science , machine learning , deep learning , Natural language processing , GenAI , Computer vision**
 
 - 📫 How to reach me **viveknaidu6677@gmail.com**
 

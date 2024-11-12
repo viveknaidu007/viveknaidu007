@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hiyyyyyy👋, This is vivek </h1>
-<h3 align="center">An Full-Stack Python devloper with Artificial Inteligence / Backend (Django) </h3>
+<h3 align="center">Full Stack Developer | MERN, Python, AI/Generative AI with Cloud Expertise in AWS & GCP</h3>
 
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/iRB7vrvhPR4AAAAi/data-code.gif">
 <img align="left" alt="Another Image" width="300" src="https://media.tenor.com/iviIq2uXz-kAAAAi/work-office.gif">
